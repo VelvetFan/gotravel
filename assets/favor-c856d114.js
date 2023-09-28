@@ -1,0 +1,1 @@
+import{_ as o,r as t,o as r,c as s,a,b as c,d as n}from"./index-deaf9570.js";const _={},d={class:"favor"},f=n("h2",null,'"favor"',-1);function i(l,v){const e=t("router-view");return r(),s("div",d,[f,a(e),c(" 123 ")])}const p=o(_,[["render",i]]);export{p as default};

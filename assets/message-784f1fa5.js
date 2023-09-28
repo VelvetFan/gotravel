@@ -1,0 +1,1 @@
+import{_ as e,o as s,c,d as o}from"./index-deaf9570.js";const t={},a={class:"message"},_=o("h2",null,'"message"',-1),n=[_];function r(d,i){return s(),c("div",a,n)}const m=e(t,[["render",r]]);export{m as default};

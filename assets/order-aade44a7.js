@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,d as t}from"./index-deaf9570.js";const c={},n={class:"vue"},r=t("h2",null,'"vue"',-1),_=[r];function a(d,i,p,l,u,f){return o(),s("div",n,_)}const m=e(c,[["render",a]]);export{m as default};
